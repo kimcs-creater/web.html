@@ -1,2 +1,2 @@
 # web.html
-first version
+https://kimcs-creater.github.io/web1/web2
